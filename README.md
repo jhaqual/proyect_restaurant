@@ -20,7 +20,7 @@ Platzi Basic Grid CSS Course Project: <br> Making use of CSS Grid Layout, the re
 
 
 ### Links
-- Live Site URL: [pending](##)
+- Live Site URL: [proyect_restaurant/](https://jhaqual.github.io/proyect_restaurant/)
 
 ## My process
 
