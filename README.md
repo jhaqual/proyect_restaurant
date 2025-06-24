@@ -1,4 +1,4 @@
-# proyect_restaurant
+# project_restaurant
 Platzi Basic Grid CSS Course Project: <br> Making use of CSS Grid Layout, the restaurant menu project is created.
 
 ## Table of contents
